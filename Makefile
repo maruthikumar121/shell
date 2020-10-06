@@ -1,5 +1,5 @@
 output:default
-	javac -g sample.class
+	java sample
 default:git
 	javac *.java
 	mkdir dotclass
