@@ -1,3 +1,6 @@
+output:default
+	cd dotclass
+	javac -g *.java
 default:git
 	javac *.java
 	mkdir dotclass
