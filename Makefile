@@ -1,5 +1,6 @@
 output:default
 	cd dotclass
+	pwd
 	javac -g *.java
 default:git
 	javac *.java
