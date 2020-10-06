@@ -1,7 +1,5 @@
 output:default
-	cd dotclass
-	pwd
-	javac -g *.java
+	javac -g sample.java
 default:git
 	javac *.java
 	mkdir dotclass
